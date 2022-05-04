@@ -34,8 +34,8 @@
     <!-- Navbar items -->
     <div class="nav-links">
       <a href="Misère.html">Misère</a>
-      <a href="musique.html">שירים</a>
-      <a href="horaires de chabbath.html">HORAIRES DE CHABBATH</a>
+      <a href=""></a>
+      <a href=""></a>
      
     </div>
    
