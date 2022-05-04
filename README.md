@@ -93,10 +93,7 @@ Grace à un poème très riche en figures de style, Hugo réussit à gagner l'ad
 
 
 
-</p>
-<br/>
 
-</div>
 
   <script src="script.js"></script>
 </body>
